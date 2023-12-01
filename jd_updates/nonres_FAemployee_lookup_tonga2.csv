@@ -1,0 +1,23 @@
+Lookup,Non-Residential Economic Activity,"Labor Force (2019, p)",NRFA x Emp (m2),NRFA x Emp (m2),CDRP Non-Res Use types
+A,A.      Agriculture. Cattle Ranging. Hunting. Forestry and Fishing,7968.725464,0.094117937,8,Warehouses
+B,B. Mining and Quarrying,4103.321772,32,34,Warehouses
+C,C. Manufacture Industry,206992.3371,31.93572329,36,Industrial
+D,D. Electricity. Gas. Vapor and Air Conditioning Supply,3004.303617,37.5461386,45,Critical Facilities
+E,E. Water Supply. Sewerage. Waste Management and Sanitation ,12941.95042,0.722456793,45,Critical Facilities
+F,F. Construction,60600.44459,0.491514546,28,Commercial-Offices
+G,G. Commerce including Reparation of Automobiles and Motorcycles,446962.0491,52.94890259,25,Commercial-Retail
+H,H. Transport and Storage,137338.4539,203.4692339,65,Warehouses
+I,I. Lodge and Food Services,103098.5007,58.29328226,65,Commercial-Offices
+J,J. Information and Communication,186797.9287,2.114316806,24,Commercial-Offices
+K,K. Finance and Insurance Activities,141846.9811,11.71508894,24,Commercial-Offices
+L,L. Real Estate Activities,76132.50817,11.45568458,24,Commercial-Offices
+M,M. Professional. Scientific and Technical Activities,199808.0222,1.292240407,24,Commercial-Offices
+N,N. Administration Activities and Support Services ,299498.4315,6.605543775,24,Commercial-Offices
+O,O. Public Administration and Defense Compulsory Social Security,185016.2549,18.65106394,24,Commercial-Offices
+P,P. Education ,258132.1544,18.16414546,120,Critical Facilities
+Q,Q. Health and Social Services,303865.1723,8.812131973,40,Critical Facilities
+R,R. Arts. Entertainment and Recreation,54330.73696,40.08504434,30,Critical Facilities
+S,S. Other Service Activities,86275.6579,31.97773355,25,Commercial-Offices
+T,T. Private Households as Employers ,97124.1826,-,0,Residential
+U,U. Extraterritorial Organizations,534,18.65106394,25,Commercial-Offices
+Z,Z. No Description,51019.16696,25.33067624,30,
