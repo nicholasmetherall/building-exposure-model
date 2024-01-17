@@ -1,0 +1,78 @@
+Type,Name,Value per unit
+ACRES_Kava,Kava,9051.099735
+ACRES_Paper mulberry,Paper mulberry,14528.25
+ACRES_Vanilla,Vanilla,2794.132049
+ACRES_Pineapple,Pineapple,470.8261278
+ACRES_Pandanus,Pandanus,15000
+ACRES_Papaya,Papaya,470.8261278
+ACRES_Coffee,Coffee,1700.833333
+ACRES_To,To,0
+"ACRES_Perennial crop 
+(acres)",Perennial crop ,0
+ACRES_Cassava (Manioke),Cassava (Manioke),885.0488659
+ACRES_Yam (Ufi),Yam (Ufi),1503.004796
+ACRES_Yautia (Talo Futuna),Yautia (Talo Futuna),1241.368482
+"ACRES_Sweet
+potato (Kumala)",Sweet,916.5288976
+"ACRES_Swam taro
+(Talo Tonga)",Swam taro,1241.368482
+ACRES_Other Root,Other Root,1054.73752
+ACRES_Watermelon,Watermelon,640.753256
+ACRES_Tomatoes,Tomatoes,6941.925964
+ACRES_Tobacco,Tobacco,0
+ACRES_Papaya,Papaya,0
+ACRES_Capsicum,Capsicum,1721.25
+ACRES_Head Cabbage,Head Cabbage,866.781
+ACRES_Plantain,Plantain,1403.554751
+ACRES_Giant Taro,Giant Taro,1149.415262
+ACRES_Cooking Banana,Cooking Banana,1403.554751
+ACRES_Banana,Banana,223.7346953
+ACRES_Corn,Corn,1148.661
+ACRES_Pele,Pele,1000
+ACRES_Peanut,Peanut,121.6248446
+TREES_Coconut,Coconut,9.207
+TREES_Mango,Mango,88.3314
+TREES_Breadfruit,Breadfruit,124.3224
+"TREES_Pacific litchi
+(Tava)",Pacific litchi,50
+TREES_Moli,Moli,50
+TREES_Ifi,Ifi,50
+TREES_Guava,Guava,50
+"TREES_Rose apple
+(Fekika)",Rose apple,7.3656
+TREES_Avocado,Avocado,50
+"TREES_Indian
+mulberry Noni",Indian,50
+TREES_Others,Others,50
+TREES_Pine,Pine,250
+TREES_Pulukamu,Pulukamu,250
+TREES_Sita,Sita,250
+TREES_Kauli,Kauli,250
+TREES_Mahokani,Mahokani,250
+TREES_Kofe,Kofe,250
+TREES_‘oke,‘oke,250
+TREES_Kofe pitu,Kofe pitu,250
+TREES_Kotia,Kotia,250
+TREES_Cauli flower,Cauli flower,450
+TREES_Sandalwood,Sandalwood,450
+Total value of raw material sold,RawMaterial,-99
+Total of finished product sold,FinishedProduct,-99
+NUM_Beef cattle,Beef cattle,600
+NUM_Dairy cattle,Dairy cattle,650
+NUM_Pig,Pig,270
+NUM_Horse,Horse,700
+NUM_Sheep,Sheep,70
+NUM_Goat,Goat,85
+NUM_Chicken,Chicken,5
+NUM_Duck,Duck,25
+TREES_Breadfruit,Breadfruit,124.3224
+TREES_Mango,Mango,88.3314
+TREES_Banana,Banana,100
+TREES_Moli,Moli,31
+TREES_Coconut,Coconut,9.207
+TREES_Sandalwood,Sandalwood,558
+TREES_LOUÁKAU,LOUÁKAU,28
+TREES_Pacific litchi,Pacific litchi,50
+TREES_Plantain,Plantain,100
+TREES_Papaya,Papaya,50
+Fishing value (TOP),Fishing value (TOP),-99
